@@ -1,2 +1,2 @@
-# Rezervace-m-stnost-
+# Rezervace mítností
 Rezervace místností
