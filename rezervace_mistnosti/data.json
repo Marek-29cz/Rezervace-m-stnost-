@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "jmeno": "Novák",
+        "mistnost": "konferenční místnost 2",
+        "datum": "2024-12-19",
+        "cas_od": "19:00",
+        "cas_do": "20:00"
+    },
+    {
+        "id": 2,
+        "jmeno": "Novotný",
+        "mistnost": "zasedací místnost 2",
+        "datum": "2024-12-31",
+        "cas_od": "18:00",
+        "cas_do": "21:30"
+    },
+    {
+        "id": 3,
+        "jmeno": "Veselý",
+        "mistnost": "společenská místnost 2",
+        "datum": "2024-12-16",
+        "cas_od": "12:00",
+        "cas_do": "15:00"
+    },
+    {
+        "id": 4,
+        "jmeno": "Charvát",
+        "mistnost": "zasedací místnost 1",
+        "datum": "2024-12-26",
+        "cas_od": "16:30",
+        "cas_do": "18:30"
+    },
+    {
+        "id": 5,
+        "jmeno": "Hrbáček",
+        "mistnost": "společenská místnost 1",
+        "datum": "2025-01-05",
+        "cas_od": "10:00",
+        "cas_do": "13:30"
+    }
+]
