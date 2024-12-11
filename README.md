@@ -10,4 +10,4 @@ Na druhé stránce (zruseni.php) naleznete formulář pro zrušení rezervace, k
 A na poslední třetí stránce (tabulka.php) naleznete tabulku všech rezervací, která je seřazená podle datumu rezervace.
 
 Na spuštění stránky na lokálním počítači je potřeba mít program XAMPP a v něm puštěný Apache (server pro webové stránky)
-Na stránku se dostaneme pomocí adresy odkazu localhost
+Na stránku se dostaneme pomocí adresy odkazu localhost/rezervace_mistnosti/rezervace.php
